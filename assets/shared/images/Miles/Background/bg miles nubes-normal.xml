@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg miles nubes-normal.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="run run0000" x="0" y="0" width="3840" height="2160" frameX="0" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0001" x="0" y="0" width="3840" height="2160" frameX="0" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0002" x="0" y="0" width="3840" height="2160" frameX="0" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0003" x="0" y="0" width="3840" height="2160" frameX="-8" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0004" x="0" y="0" width="3840" height="2160" frameX="-8" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0005" x="0" y="0" width="3840" height="2160" frameX="-8" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0006" x="0" y="0" width="3840" height="2160" frameX="-12" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0007" x="0" y="0" width="3840" height="2160" frameX="-12" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0008" x="0" y="0" width="3840" height="2160" frameX="-12" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0009" x="0" y="0" width="3840" height="2160" frameX="-16" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0010" x="0" y="0" width="3840" height="2160" frameX="-16" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0011" x="0" y="0" width="3840" height="2160" frameX="-16" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0012" x="0" y="0" width="3840" height="2160" frameX="-20" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0013" x="0" y="0" width="3840" height="2160" frameX="-20" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0014" x="0" y="0" width="3840" height="2160" frameX="-20" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0015" x="0" y="0" width="3840" height="2160" frameX="-23" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0016" x="0" y="0" width="3840" height="2160" frameX="-23" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0017" x="0" y="0" width="3840" height="2160" frameX="-23" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0018" x="0" y="0" width="3840" height="2160" frameX="-27" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0019" x="0" y="0" width="3840" height="2160" frameX="-27" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0020" x="0" y="0" width="3840" height="2160" frameX="-27" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0021" x="0" y="0" width="3840" height="2160" frameX="-27" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0022" x="0" y="0" width="3840" height="2160" frameX="-27" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0023" x="0" y="0" width="3840" height="2160" frameX="-27" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0024" x="0" y="0" width="3840" height="2160" frameX="-31" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0025" x="0" y="0" width="3840" height="2160" frameX="-31" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0026" x="0" y="0" width="3840" height="2160" frameX="-31" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0027" x="0" y="0" width="3840" height="2160" frameX="-35" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0028" x="0" y="0" width="3840" height="2160" frameX="-35" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0029" x="0" y="0" width="3840" height="2160" frameX="-35" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0030" x="0" y="0" width="3840" height="2160" frameX="-39" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0031" x="0" y="0" width="3840" height="2160" frameX="-39" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0032" x="0" y="0" width="3840" height="2160" frameX="-39" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0033" x="0" y="0" width="3840" height="2160" frameX="-43" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0034" x="0" y="0" width="3840" height="2160" frameX="-43" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0035" x="0" y="0" width="3840" height="2160" frameX="-43" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0036" x="0" y="0" width="3840" height="2160" frameX="-45" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0037" x="0" y="0" width="3840" height="2160" frameX="-45" frameY="0" frameWidth="3885" frameHeight="2160"/>
+	<SubTexture name="run run0038" x="0" y="0" width="3840" height="2160" frameX="-45" frameY="0" frameWidth="3885" frameHeight="2160"/>
+</TextureAtlas>

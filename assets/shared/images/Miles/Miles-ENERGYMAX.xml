@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Miles-ENERGYMAX.png"><SubTexture name="miles abajo0000" x="0" y="0" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles abajo0001" x="724" y="0" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles arriba0000" x="1448" y="0" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles arriba0001" x="2172" y="0" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles derecha0000" x="0" y="1068" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles derecha0001" x="724" y="1068" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles izquierda0000" x="1448" y="1068" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles izquierda0001" x="2172" y="1068" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles idle0000" x="0" y="2136" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles idle0001" x="724" y="2136" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles idle0002" x="1448" y="2136" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+<SubTexture name="miles idle0003" x="2172" y="2136" width="724" height="1068" frameX="0" frameY="0" frameWidth="724" frameHeight="1068" />
+</TextureAtlas>
