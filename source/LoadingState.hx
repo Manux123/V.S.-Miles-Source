@@ -66,10 +66,11 @@ class LoadingState extends MusicBeatState
 
 		gfDance = new FlxSprite().loadGraphic(Paths.image('gfDanceTitle'));
 		gfDance.antialiasing = true;
-		gfDance.x -= 500;
+		gfDance.x -= 200;
 		gfDance.y -= 100;
-		gfDance.setGraphicSize(Std.int(gfDance.width * 0.1));
+		gfDance.setGraphicSize(Std.int(gfDance.width * 0.3));
 		gfDance.updateHitbox();
+		add(gfDance);
 		//add(gfDance);
 		//add(logo);
 		
