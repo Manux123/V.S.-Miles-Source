@@ -760,10 +760,6 @@ class PlayState extends MusicBeatState
 						stagemiles.active = false;
 						add(stagemiles);
 						stagemiles.kill();
-
-						dad = new Character(dad.x, dad.y, 'miles_energymax');
-						dad.alpha = 0;
-						add(dad);
 		
 					}
 			case 'schoolEvil':
@@ -884,9 +880,6 @@ class PlayState extends MusicBeatState
 			case 'pico':
 				camPos.x += 600;
 				dad.y += 300;
-			case 'tankman':
-				camPos.x += 600;
-				dad.y += 300;
 			case 'parents-christmas':
 				dad.x -= 500;
 			case 'senpai':
@@ -957,7 +950,7 @@ class PlayState extends MusicBeatState
 				boyfriend.y += 50;
 				dad.y += 220;
 				gf.x += 180;
-				gf.y += 380;
+				gf.y += 280;
 					
 					
 				boyfriend.y += 220;
@@ -3751,17 +3744,13 @@ class PlayState extends MusicBeatState
 					bgpeople.y -= 380;
 					add(bgpeople);
 
-					remove(dad);
-					dad = new Character(dad.x, dad.y, 'miles_energymax');
-					add(dad);
-
 					remove(scoreTxt);
 					remove(healthBarBG);
 					remove(healthBar);
 					remove(iconP1);
 					remove(iconP2);
 				}
-				if (curBeat == 276)
+				if (curBeat == 324)
 				{
 					add(scoreTxt);
 					add(healthBarBG);
