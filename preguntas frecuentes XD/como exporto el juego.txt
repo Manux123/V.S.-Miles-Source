@@ -1,3 +1,0 @@
-Todo es lo mismo
-Para exportar el juego es lime test windows
-Y si quieres buscar errores lime test windows -debug

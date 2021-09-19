@@ -366,12 +366,6 @@ class PlayState extends MusicBeatState
 				dialogue = CoolUtil.coolTextFile(Paths.txt('roses/rosesDialogue'));
 			case 'thorns':
 				dialogue = CoolUtil.coolTextFile(Paths.txt('thorns/thornsDialogue'));
-			case 'a-calm-fox':
-				dialogue = CoolUtil.coolTextFile(Paths.txt('a-calm-fox/dialogue'));
-			case 'alerious':
-				dialogue = CoolUtil.coolTextFile(Paths.txt('alerious/dialogue'));
-			case 'energy-max':
-				dialogue = CoolUtil.coolTextFile(Paths.txt('energy-max/dialogue'));
 		}
 
 		switch(SONG.stage)
@@ -645,7 +639,7 @@ class PlayState extends MusicBeatState
 
 			case 'miles_fondo':
 					{
-						defaultCamZoom = 0.8;
+						defaultCamZoom = 0.7;
 						curStage = 'miles_fondo';
 
 						var sky:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('Miles/Background/bg miles sky-normal'));
@@ -681,7 +675,7 @@ class PlayState extends MusicBeatState
 			 
 			case 'miles_fondo_tarde':
 					{
-						defaultCamZoom = 0.8;
+						defaultCamZoom = 0.7;
 						curStage = 'miles_fondo_tarde';
 
 						var sky:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('Miles/Background/tarde/bg miles sky-tarde'));
@@ -950,7 +944,7 @@ class PlayState extends MusicBeatState
 				boyfriend.y += 50;
 				dad.y += 220;
 				gf.x += 180;
-				gf.y += 280;
+				gf.y += 190;
 					
 					
 				boyfriend.y += 220;
@@ -1082,7 +1076,7 @@ class PlayState extends MusicBeatState
 		add(healthBar);
 
 		// Add Kade Engine watermark
-		kadeEngineWatermark = new FlxText(4,healthBarBG.y + 50,0,SONG.song + " " + (storyDifficulty == 2 ? "Hard" : storyDifficulty == 1 ? "Normal" : "Easy") + (Main.watermarks ? " - KE - XD " + MainMenuState.kadeEngineVer : ""), 16);
+		kadeEngineWatermark = new FlxText(4,healthBarBG.y + 50,0,SONG.song + " " + (storyDifficulty == 2 ? "Hard" : storyDifficulty == 1 ? "Normal" : "Easy") + (Main.watermarks ? " - KE " + MainMenuState.kadeEngineVer : ""), 16);
 		kadeEngineWatermark.setFormat(Paths.font("vcr.ttf"), 16, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
 		kadeEngineWatermark.scrollFactor.set();
 		add(kadeEngineWatermark);
@@ -1187,8 +1181,6 @@ class PlayState extends MusicBeatState
 					FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
 				case 'thorns':
-					schoolIntro(doof);
-				case 'a-calm-fox' | 'alerious' | 'energy-max':
 					schoolIntro(doof);
 				default:
 					startCountdown();
